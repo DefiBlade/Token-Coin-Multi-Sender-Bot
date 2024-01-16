@@ -1,0 +1,20 @@
+{
+  "simulation" : false,
+  "isTransfer" : true,
+  "toAddress" : "0xD9325a019ffaBc1C0885eFccf56488a0f5aE32e3",
+  "provider": "https://bsc-dataseed.binance.org",
+  "httpProvider": "http://172.16.20.15:8545",
+  "wssProvider": "ws://172.16.20.15:8546",
+  "wbnb": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+  "decimals" : "1000000000000000000",
+  "decimals_small" : "1000000000",
+  "decimals_big" : "1000000000000000000",
+  "batch" : "1000",
+ "trasferFee": "0.0002",
+  "tokenFee" : "0.0005",
+  "swapFee": "0.001",
+  "floor" : "5",
+  "tokenName": "Amazon",
+  "tokenOut": "0x3c18f6c2aff81a6489327da5b0d4fb5ed5695801"
+}
